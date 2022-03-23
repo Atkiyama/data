@@ -1,0 +1,10 @@
+05:14:10:b5:86:e5,ftime =10.941201,ltime =1047.891183,aveRssi=-82,numPkt=343
+24:7a:5c:5a:e2:9d,ftime =1048.714898,ltime =2476.766423,aveRssi=-84,numPkt=795
+28:53:7f:c4:72:fb,ftime =2479.090998,ltime =3450.705803,aveRssi=-83,numPkt=239
+
+6e:7d:16:c2:ce:73,ftime =13.889631,ltime =704.108498,aveRssi=-80,numPkt=308
+55:10:ea:b0:6b:4d,ftime =707.736057,ltime =1525.290649,aveRssi=-82,numPkt=719
+69:bc:4c:ef:eb:a4,ftime =1528.439389,ltime =2293.143185,aveRssi=-82,numPkt=661
+43:ab:72:13:50:d6,ftime =2294.285867,ltime =3059.131903,aveRssi=-82,numPkt=657
+7e:fd:ed:40:e6:95,ftime =3062.093277,ltime =3597.99365,aveRssi=-82,numPkt=447
+

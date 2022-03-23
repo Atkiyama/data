@@ -1,0 +1,5 @@
+7d:9c:f0:33:a6:d8,ftime =13.916332,ltime =808.669255,aveRssi=-75,numPkt=394
+6f:0c:8c:1c:04:61,ftime =812.117697,ltime =1641.079316,aveRssi=-78,numPkt=935
+65:bc:fd:3d:20:fa,ftime =1644.634394,ltime =2408.379206,aveRssi=-79,numPkt=898
+7c:bd:ae:54:55:60,ftime =2412.448456,ltime =3294.490172,aveRssi=-78,numPkt=764
+
