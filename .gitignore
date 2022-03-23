@@ -1,0 +1,5 @@
+.DS_STORE
+
+/capture/convert/*
+/result/multi/
+/address/processed/
