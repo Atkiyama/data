@@ -1,0 +1,4 @@
+5a:1e:96:74:1f:da,ftime =12.248377,ltime =33.4589,aveRssi=-80,numPkt=12
+0d:3a:fa:95:c3:89,ftime =40.568796,ltime =40.568796,aveRssi=-96,numPkt=1
+36:b3:a7:b8:ab:a5,ftime =41.891664,ltime =46.01704,aveRssi=-96,numPkt=3
+

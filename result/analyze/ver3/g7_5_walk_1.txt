@@ -1,0 +1,2 @@
+5a:d8:32:f4:98:60,ftime =12.867749,ltime =32.654329,aveRssi=-86,numPkt=15
+
