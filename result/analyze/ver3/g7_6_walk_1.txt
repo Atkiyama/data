@@ -1,0 +1,5 @@
+32:73:de:97:49:36,ftime =11.928315,ltime =51.787883,aveRssi=-94,numPkt=8
+07:50:fa:e0:6a:05,ftime =57.708,ltime =58.251773,aveRssi=-90,numPkt=2
+
+79:7c:5a:c6:4f:bd,ftime =12.846602,ltime =12.846602,aveRssi=-92,numPkt=1
+
