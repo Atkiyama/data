@@ -1,0 +1,2 @@
+74:c3:de:81:e2:cf,ftime =14.771644,ltime =184.394045,aveRssi=-81,numPkt=180
+

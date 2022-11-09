@@ -1,0 +1,5 @@
+73:0b:a5:f0:96:ba,ftime =10.27377,ltime =177.603007,aveRssi=-90,numPkt=21
+4c:e7:20:02:7d:b4,ftime =183.460322,ltime =189.473242,aveRssi=-93,numPkt=3
+
+52:6b:4c:d4:73:08,ftime =14.061257,ltime =204.126503,aveRssi=-85,numPkt=186
+

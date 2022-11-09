@@ -1,0 +1,6 @@
+0f:d5:ee:91:21:1a,ftime =9.950096,ltime =184.283007,aveRssi=-91,numPkt=77
+
+21:c4:de:0a:b3:8e,ftime =12.410212,ltime =185.337326,aveRssi=-92,numPkt=24
+
+6e:fe:3f:63:01:03,ftime =13.476194,ltime =185.260865,aveRssi=-85,numPkt=109
+

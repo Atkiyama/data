@@ -1,0 +1,5 @@
+68:ca:ac:61:4e:bf,ftime =10.638344,ltime =171.832639,aveRssi=-88,numPkt=104
+62:90:51:30:9c:41,ftime =175.715521,ltime =198.595538,aveRssi=-91,numPkt=11
+
+67:76:3e:43:73:e5,ftime =14.970024,ltime =199.200418,aveRssi=-78,numPkt=199
+

@@ -1,0 +1,2 @@
+64:fe:f0:6b:ab:17,ftime =11.854483,ltime =229.455578,aveRssi=-83,numPkt=186
+

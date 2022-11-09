@@ -1,0 +1,4 @@
+74:a3:a6:fe:67:82,ftime =11.151624,ltime =228.26778,aveRssi=-85,numPkt=99
+
+4c:e7:20:02:7d:b4,ftime =12.155115,ltime =205.101151,aveRssi=-94,numPkt=23
+

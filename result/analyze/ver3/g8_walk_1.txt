@@ -1,0 +1,9 @@
+1a:c1:e2:b3:40:c8,ftime =9.994601,ltime =249.830599,aveRssi=-96,numPkt=31
+
+4b:f8:f7:e1:ce:28,ftime =12.997674,ltime =253.057449,aveRssi=-78,numPkt=222
+
+21:c4:de:0a:b3:8e,ftime =14.585109,ltime =96.96284,aveRssi=-98,numPkt=3
+3f:db:05:55:ae:c2,ftime =100.266466,ltime =142.451407,aveRssi=-88,numPkt=23
+09:70:4a:02:f9:f6,ftime =143.379346,ltime =160.604567,aveRssi=-85,numPkt=18
+13:36:96:f2:66:a8,ftime =167.29425,ltime =252.920413,aveRssi=-60,numPkt=117
+
