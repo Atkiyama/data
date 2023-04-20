@@ -1,4 +1,0 @@
-43:81:91:0e:0a:67,ftime =12.662547,ltime =161.135771,aveRssi=-83,numPkt=124
-
-0f:7a:05:ad:a2:e2,ftime =13.684816,ltime =123.921398,aveRssi=-96,numPkt=3
-

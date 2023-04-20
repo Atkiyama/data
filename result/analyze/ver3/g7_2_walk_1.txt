@@ -1,4 +1,0 @@
-1b:24:21:04:d4:35,ftime =10.86148,ltime =35.925673,aveRssi=-86,numPkt=23
-
-59:6f:12:dd:94:0e,ftime =13.067903,ltime =25.947444,aveRssi=-83,numPkt=7
-

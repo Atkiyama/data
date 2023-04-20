@@ -1,4 +1,0 @@
-78:21:b7:82:f3:4d,ftime =12.502326,ltime =246.143862,aveRssi=-86,numPkt=88
-
-29:bd:0f:13:62:33,ftime =12.546181,ltime =241.847645,aveRssi=-91,numPkt=66
-
