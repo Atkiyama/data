@@ -1,0 +1,2 @@
+43:c2:d8:a0:ea:58,ftime =13.674569,ltime =69.789412,aveRssi=-60,numPkt=97
+
