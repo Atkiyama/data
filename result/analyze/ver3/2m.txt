@@ -1,0 +1,1 @@
+5d:e6:fc:02:38:16,ftime =11.419813,ltime =69.272681,aveRssi=-85,numPkt=43

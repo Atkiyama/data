@@ -1,0 +1,1 @@
+4b:9d:81:d2:24:1d,ftime =11.332579,ltime =69.995232,aveRssi=-87,numPkt=30
