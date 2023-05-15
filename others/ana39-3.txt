@@ -1,0 +1,234 @@
+58:06:e5:cf:9f:bf,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+55:7a:fc:8d:88:f9,ftime =10.0,ltime =10.0,aveRssi=-85,numPkt=1
+
+52:38:9c:22:c9:45,ftime =10.0,ltime =58.0,aveRssi=-86,numPkt=2
+
+61:0c:29:c8:fb:e4,ftime =10.0,ltime =58.0,aveRssi=-87,numPkt=3
+
+68:4c:c1:5a:4b:fa,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+49:e7:5e:46:0d:1f,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+48:44:c1:56:4b:fa,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+78:f3:9c:7b:af:05,ftime =10.0,ltime =55.0,aveRssi=-87,numPkt=14
+
+00:6f:f2:fb:10:ac,ftime =10.0,ltime =62.0,aveRssi=-87,numPkt=7
+
+48:4c:81:16:4b:fa,ftime =10.0,ltime =67.0,aveRssi=-87,numPkt=2
+
+58:ae:e5:cf:9f:bf,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+e8:ee:cd:75:18:aa,ftime =10.0,ltime =47.0,aveRssi=-88,numPkt=3
+
+6d:29:6d:69:53:56,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+e6:66:d5:80:26:fc,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+66:ba:45:e0:41:89,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+65:23:08:c0:4e:44,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+71:0c:29:c8:eb:e4,ftime =10.0,ltime =22.0,aveRssi=-88,numPkt=2
+
+0f:b9:0b:94:60:b1,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+31:0b:66:7a:69:d4,ftime =10.0,ltime =40.0,aveRssi=-87,numPkt=5
+
+2b:66:c1:16:df:fc,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+7d:27:6c:87:77:26,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+41:0d:49:58:fb:c4,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+48:4c:81:1e:4b:fa,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+48:4c:81:16:43:fa,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+00:8a:bc:51:e0:f2,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+1f:13:10:eb:83:b2,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+f6:ad:9e:ea:27:77,ftime =10.0,ltime =10.0,aveRssi=-86,numPkt=1
+
+71:0c:29:48:fb:e4,ftime =10.0,ltime =28.0,aveRssi=-87,numPkt=2
+
+be:60:a0:95:89:b3,ftime =10.0,ltime =10.0,aveRssi=-86,numPkt=1
+
+35:ef:13:b0:7d:e1,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+38:fb:43:2f:e5:69,ftime =10.0,ltime =10.0,aveRssi=-89,numPkt=1
+
+48:4c:41:16:6b:fa,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+7c:ae:d2:dc:dc:23,ftime =10.0,ltime =70.0,aveRssi=-49,numPkt=191
+
+4c:4c:c1:16:4b:fa,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+68:4c:c1:16:4b:fa,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+0f:13:15:eb:83:b6,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+71:0c:29:c8:fb:f4,ftime =10.0,ltime =69.0,aveRssi=-88,numPkt=4
+
+52:38:9c:22:cd:47,ftime =10.0,ltime =10.0,aveRssi=-87,numPkt=1
+
+71:8c:a9:c8:bb:e4,ftime =10.0,ltime =10.0,aveRssi=-88,numPkt=1
+
+48:64:09:57:4b:fa,ftime =11.0,ltime =11.0,aveRssi=-87,numPkt=1
+
+8e:af:12:09:20:03,ftime =11.0,ltime =11.0,aveRssi=-90,numPkt=1
+
+b8:51:ab:a9:3c:d4,ftime =11.0,ltime =11.0,aveRssi=-89,numPkt=1
+
+ee:bd:ad:d6:9b:61,ftime =11.0,ltime =35.0,aveRssi=-87,numPkt=2
+
+dd:fc:d0:0c:c8:1f,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+51:69:a6:de:e5:bf,ftime =11.0,ltime =11.0,aveRssi=-89,numPkt=1
+
+45:77:38:4d:11:2d,ftime =11.0,ltime =11.0,aveRssi=-87,numPkt=1
+
+51:46:2e:a9:50:52,ftime =11.0,ltime =11.0,aveRssi=-73,numPkt=1
+
+52:38:9c:22:e9:47,ftime =11.0,ltime =11.0,aveRssi=-87,numPkt=1
+
+48:4c:c9:06:4b:fa,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+7d:2f:7c:87:77:22,ftime =11.0,ltime =11.0,aveRssi=-85,numPkt=1
+
+66:19:18:10:9f:52,ftime =11.0,ltime =69.0,aveRssi=-87,numPkt=4
+
+3b:61:04:95:89:b2,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+3b:71:a4:95:81:f3,ftime =11.0,ltime =53.0,aveRssi=-88,numPkt=3
+
+ec:ee:cc:75:18:aa,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+31:0b:64:7a:68:d4,ftime =11.0,ltime =53.0,aveRssi=-87,numPkt=2
+
+69:87:4d:1e:cd:d0,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+71:1c:29:c8:fb:e4,ftime =11.0,ltime =11.0,aveRssi=-88,numPkt=1
+
+3b:71:04:95:89:f3,ftime =11.0,ltime =66.0,aveRssi=-87,numPkt=4
+
+3b:61:a4:95:89:f7,ftime =11.0,ltime =11.0,aveRssi=-90,numPkt=1
+
+c1:ad:5f:14:fe:a6,ftime =11.0,ltime =56.0,aveRssi=-87,numPkt=5
+
+61:38:44:2c:40:a2,ftime =12.0,ltime =25.0,aveRssi=-88,numPkt=2
+
+46:19:18:1a:8e:52,ftime =12.0,ltime =12.0,aveRssi=-87,numPkt=1
+
+0f:13:11:eb:82:b2,ftime =12.0,ltime =34.0,aveRssi=-87,numPkt=3
+
+d5:fc:d1:0d:ca:9f,ftime =12.0,ltime =12.0,aveRssi=-84,numPkt=1
+
+a8:53:8b:99:b8:dc,ftime =12.0,ltime =12.0,aveRssi=-88,numPkt=1
+
+fd:6c:d0:0c:ca:1d,ftime =12.0,ltime =12.0,aveRssi=-89,numPkt=1
+
+c6:9a:c5:e0:c9:81,ftime =12.0,ltime =12.0,aveRssi=-89,numPkt=1
+
+3b:71:a4:95:a8:b3,ftime =12.0,ltime =12.0,aveRssi=-87,numPkt=1
+
+48:4c:c1:36:4b:fa,ftime =12.0,ltime =54.0,aveRssi=-88,numPkt=4
+
+25:ef:13:fa:dd:f1,ftime =12.0,ltime =12.0,aveRssi=-89,numPkt=1
+
+61:83:6d:1d:cd:d0,ftime =12.0,ltime =12.0,aveRssi=-88,numPkt=1
+
+5d:50:72:bb:49:48,ftime =12.0,ltime =67.0,aveRssi=-87,numPkt=3
+
+5f:6a:f8:8d:88:f9,ftime =12.0,ltime =12.0,aveRssi=-88,numPkt=1
+
+f6:ad:96:6a:27:77,ftime =12.0,ltime =12.0,aveRssi=-85,numPkt=1
+
+e8:ee:cc:7d:18:aa,ftime =12.0,ltime =12.0,aveRssi=-85,numPkt=1
+
+3b:61:85:95:89:f3,ftime =12.0,ltime =12.0,aveRssi=-87,numPkt=1
+
+57:be:cd:fa:91:4a,ftime =12.0,ltime =12.0,aveRssi=-89,numPkt=1
+
+6a:51:d2:3c:b8:37,ftime =12.0,ltime =64.0,aveRssi=-83,numPkt=23
+
+d5:20:78:8c:c1:9d,ftime =12.0,ltime =12.0,aveRssi=-86,numPkt=1
+
+ff:29:59:4d:51:08,ftime =12.0,ltime =12.0,aveRssi=-90,numPkt=1
+
+0f:13:31:eb:83:b2,ftime =12.0,ltime =12.0,aveRssi=-85,numPkt=1
+
+61:87:6d:1d:dd:d2,ftime =12.0,ltime =12.0,aveRssi=-86,numPkt=1
+
+3b:71:84:95:89:f3,ftime =13.0,ltime =70.0,aveRssi=-87,numPkt=10
+
+4d:2a:fc:8d:88:f9,ftime =13.0,ltime =13.0,aveRssi=-88,numPkt=1
+
+5f:9c:c9:f8:93:4a,ftime =13.0,ltime =13.0,aveRssi=-88,numPkt=1
+
+e8:ee:cc:35:18:ba,ftime =13.0,ltime =13.0,aveRssi=-88,numPkt=1
+
+66:99:18:52:9b:52,ftime =13.0,ltime =13.0,aveRssi=-89,numPkt=1
+
+60:00:f7:f7:b3:41,ftime =13.0,ltime =13.0,aveRssi=-80,numPkt=1
+
+1b:13:11:eb:a3:b2,ftime =13.0,ltime =13.0,aveRssi=-86,numPkt=1
+
+3b:71:84:95:89:f1,ftime =13.0,ltime =13.0,aveRssi=-88,numPkt=1
+
+95:df:32:b1:d9:61,ftime =13.0,ltime =13.0,aveRssi=-89,numPkt=1
+
+ff:1f:01:51:3e:09,ftime =13.0,ltime =13.0,aveRssi=-89,numPkt=1
+
+e8:ee:c9:75:18:aa,ftime =13.0,ltime =69.0,aveRssi=-88,numPkt=3
+
+61:38:44:6c:42:b2,ftime =13.0,ltime =13.0,aveRssi=-87,numPkt=1
+
+64:d2:84:99:79:88,ftime =13.0,ltime =13.0,aveRssi=-87,numPkt=1
+
+2a:51:d2:3c:bb:33,ftime =13.0,ltime =13.0,aveRssi=-89,numPkt=1
+
+61:85:6d:1d:c5:d0,ftime =13.0,ltime =13.0,aveRssi=-89,numPkt=1
+
+7a:2d:00:d4:df:ac,ftime =13.0,ltime =13.0,aveRssi=-88,numPkt=1
+
+ff:33:10:11:1e:09,ftime =13.0,ltime =13.0,aveRssi=-90,numPkt=1
+
+a1:73:0a:ad:3c:dc,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+68:ee:cc:35:18:aa,ftime =14.0,ltime =49.0,aveRssi=-86,numPkt=2
+
+35:ef:1b:b0:dd:e1,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+e6:6c:ce:66:bf:14,ftime =14.0,ltime =14.0,aveRssi=-87,numPkt=1
+
+7d:10:72:fb:48:48,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+6d:f9:e3:da:f3:58,ftime =14.0,ltime =14.0,aveRssi=-89,numPkt=1
+
+25:cf:13:fa:dd:f9,ftime =14.0,ltime =14.0,aveRssi=-90,numPkt=1
+
+34:25:b4:00:c1:55,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+7c:31:0e:7a:af:c0,ftime =14.0,ltime =14.0,aveRssi=-89,numPkt=1
+
+ff:0f:00:11:3e:0b,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+61:a3:6d:1d:ed:d0,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+46:06:06:28:bb:2e,ftime =14.0,ltime =63.0,aveRssi=-87,numPkt=5
+
+d7:10:d0:48:0f:fa,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+31:0b:64:7c:69:d4,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+f5:8e:90:19:d5:29,ftime =14.0,ltime =14.0,aveRssi=-89,numPkt=1
+
+6b:1e:87:3d:51:8a,ftime =14.0,ltime =55.0,aveRssi=-87,numPkt=3
+
+61:18:44:3c:4a:a2,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+a5:5b:b2:5a:34:1f,ftime =14.0,ltime =14.0,aveRssi=-71,numPkt=1
+

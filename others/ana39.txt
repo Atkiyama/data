@@ -1,0 +1,6 @@
+46:19:18:10:9f:52,ftime =10.0,ltime =70.0,aveRssi=-87,numPkt=94
+
+34:f3:4f:cd:cb:f3,ftime =14.0,ltime =14.0,aveRssi=-88,numPkt=1
+
+37:36:86:80:08:8a,ftime =14.0,ltime =67.0,aveRssi=-88,numPkt=2
+
