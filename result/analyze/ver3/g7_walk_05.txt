@@ -1,13 +1,1 @@
-7c:dd:8f:82:12:ec,ftime =9.255556,ltime =105.454145,aveRssi=-96,numPkt=14
-76:ad:c9:25:3c:b4,ftime =9.27992,ltime =96.498242,aveRssi=-93,numPkt=20
-e0:ab:37:3c:58:40,ftime =10.944913,ltime =87.145706,aveRssi=-96,numPkt=3
-57:42:15:68:61:57,ftime =11.003053,ltime =108.562742,aveRssi=-95,numPkt=10
-dc:fb:1e:ed:37:e7,ftime =11.208472,ltime =11.208472,aveRssi=-75,numPkt=1
-76:53:31:7d:79:31,ftime =11.234474,ltime =114.863455,aveRssi=-76,numPkt=158
-47:69:58:c0:0f:44,ftime =11.546394,ltime =112.680066,aveRssi=-95,numPkt=34
-68:eb:38:bb:91:51,ftime =12.524761,ltime =114.861227,aveRssi=-93,numPkt=33
-cd:14:06:7e:ea:3e,ftime =13.432776,ltime =109.520747,aveRssi=-83,numPkt=18
-df:f1:c5:31:8a:79,ftime =14.080101,ltime =14.080101,aveRssi=-97,numPkt=1
-f2:b5:ce:1c:66:31,ftime =14.749703,ltime =101.00293,aveRssi=-90,numPkt=7
-74:5a:d3:cd:5e:0d,ftime =14.912872,ltime =115.094503,aveRssi=-82,numPkt=117
-01:c2:11:38:b0:01,ftime =14.915714,ltime =115.011867,aveRssi=-82,numPkt=140
+7e:c5:7d:d5:7d:f1,ftime =10.95389,ltime =225.513608,aveRssi=-82,numPkt=209
