@@ -1,1 +1,0 @@
-4f:77:f2:72:61:f9,ftime =14.335851,ltime =71.426516,aveRssi=-72,numPkt=96

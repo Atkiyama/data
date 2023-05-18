@@ -1,1 +1,0 @@
-67:e9:93:cf:c5:9a,ftime =14.662783,ltime =67.36564,aveRssi=-84,numPkt=49
