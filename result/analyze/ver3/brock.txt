@@ -1,0 +1,1 @@
+5f:6e:4a:9b:3e:47,ftime =12.083466,ltime =40.99923,aveRssi=-86,numPkt=38
