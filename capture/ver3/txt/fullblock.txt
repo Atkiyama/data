@@ -1,0 +1,16 @@
+19:25:34.377496 78:fb:6a:3a:32:a3 (random) [0] -91 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:35.230385 78:fb:6a:3a:32:a3 (random) [0] -91 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:35.520292 78:fb:6a:3a:32:a3 (random) [0] -87 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:36.704247 78:fb:6a:3a:32:a3 (random) [0] -76 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:37.520381 78:fb:6a:3a:32:a3 (random) [0] -86 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:39.526463 78:fb:6a:3a:32:a3 (random) [0] -91 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:41.314770 78:fb:6a:3a:32:a3 (random) [0] -95 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:42.959026 78:fb:6a:3a:32:a3 (random) [0] -92 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:44.142297 78:fb:6a:3a:32:a3 (random) [0] -92 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:47.840232 78:fb:6a:3a:32:a3 (random) [0] -93 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:50.975226 78:fb:6a:3a:32:a3 (random) [0] -91 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:52.693843 78:fb:6a:3a:32:a3 (random) [0] -91 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:53.832886 78:fb:6a:3a:32:a3 (random) [0] -90 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:57.832760 78:fb:6a:3a:32:a3 (random) [0] -88 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:25:58.125200 78:fb:6a:3a:32:a3 (random) [0] -98 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
+19:26:01.262750 78:fb:6a:3a:32:a3 (random) [0] -87 dBm Complete 16b Services(3) = 00001111-0000-1000-8000-00805f9b34fb
