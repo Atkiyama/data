@@ -1,1 +1,1 @@
-5d:ce:a1:7a:45:d7,ftime =10.013024,ltime =694.461292,aveRssi=-83,numPkt=712
+7f:7e:bb:a3:09:30,ftime =10.115904,ltime =434.483287,aveRssi=-82,numPkt=449

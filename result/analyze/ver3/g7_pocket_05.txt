@@ -1,1 +1,1 @@
-6a:7e:30:a2:fd:cd,ftime =9.988461,ltime =111.024873,aveRssi=-77,numPkt=119
+78:8a:68:32:3d:bc,ftime =10.693596,ltime =457.694946,aveRssi=-84,numPkt=431
