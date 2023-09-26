@@ -1,0 +1,74 @@
+address0 ftime= -150.90002300000924,ltime=-140.0
+address0 is matched address0_2
+address0_2 ftime= -138.50039800000377,ltime=-133.97230600001058
+cost is 1.49960199999623
+True
+address0_2 is not matched
+
+address1 ftime= -76.8563060000015,ltime=-70.0
+address1 is matched address1_2
+address1_2 ftime= -69.13377100000798,ltime=-64.84471900000062
+cost is 0.8662289999920176
+True
+address1_2 ftime= -69.13377100000798,ltime=-64.84471900000062
+address1_2 is matched address4
+address4 ftime= -61.993659999992815,ltime=-56.0
+cost is 2.851059000007808
+
+address2 ftime= -127.2975199999928,ltime=-119.0
+address2 is matched address2_2
+address2_2 ftime= -115.5749119999964,ltime=-113.85496199999761
+cost is 3.4250880000035977
+True
+address2_2 is not matched
+
+address3 ftime= -77.26066499999433,ltime=-70.0
+address3 is matched address3_2
+address3_2 ftime= -66.94529499999771,ltime=-65.8083639999968
+cost is 3.0547050000022864
+True
+address3_2 is not matched
+
+address4 ftime= -61.993659999992815,ltime=-56.0
+address4 is matched address4_2
+address4_2 ftime= -54.29010899999412,ltime=-51.14752800000133
+cost is 1.7098910000058822
+True
+address4_2 is not matched
+
+address5 ftime= -97.41672000000835,ltime=-92.0
+address5 is matched address5_2
+address5_2 ftime= -90.27878400000918,ltime=-87.13749200000893
+cost is 1.721215999990818
+True
+address5_2 is not matched
+
+address6 ftime= 77.56767400000535,ltime=85.0
+address6 is matched address6_2
+address6_2 ftime= 87.00516700001026,ltime=90.14388400000462
+cost is 2.0051670000102604
+True
+address6_2 is not matched
+
+address7 ftime= -157.4412089999969,ltime=-150.0
+address7 is matched address7_2
+address7_2 ftime= -148.57867200000328,ltime=-145.7236819999962
+cost is 1.4213279999967199
+True
+address7_2 is not matched
+
+address8 ftime= -25.895281000004616,ltime=-1.0
+address8 is matched address8_2
+address8_2 ftime= 1.2799999999988358,ltime=3.873705999998492
+cost is 2.279999999998836
+True
+address8_2 is not matched
+
+address9 ftime= 119.99493500000972,ltime=134.0
+address9 is matched address9_2
+address9_2 ftime= 135.42606900000828,ltime=139.14852200000314
+cost is 1.4260690000082832
+True
+address9_2 is not matched
+
+accuracy is 1.0

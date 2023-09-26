@@ -1,0 +1,74 @@
+address0 ftime= 59.09997699999076,ltime=70.0
+address0 is matched address0_2
+address0_2 ftime= 71.49960199999623,ltime=76.02769399998942
+cost is 1.49960199999623
+True
+address0_2 ftime= 71.49960199999623,ltime=76.02769399998942
+address0_2 is matched address7_2
+address7_2 ftime= 77.87871800000721,ltime=81.60383599999477
+cost is 1.8510240000177873
+
+address1 ftime= -157.15741600000183,ltime=-144.0
+address1 is matched address1_2
+address1_2 ftime= -143.1508529999992,ltime=-138.82172200000787
+cost is 0.8491470000008121
+True
+address1_2 is not matched
+
+address2 ftime= 5.557278000007498,ltime=13.0
+address2 is matched address2_2
+address2_2 ftime= 14.996035000003754,ltime=17.2798860000039
+cost is 1.9960350000037543
+True
+address2_2 ftime= 14.996035000003754,ltime=17.2798860000039
+address2_2 is matched address8_2
+address8_2 ftime= 19.15622099999746,ltime=22.019039999999222
+cost is 1.87633499999356
+
+address3 ftime= -7.260664999994333,ltime=0.0
+address3 is matched address3_2
+address3_2 ftime= 3.0547050000022864,ltime=4.1916360000032
+cost is 3.0547050000022864
+True
+address3_2 ftime= 3.0547050000022864,ltime=4.1916360000032
+address3_2 is matched address2
+address2 ftime= 5.557278000007498,ltime=13.0
+cost is 1.3656420000042981
+
+address4 ftime= -36.57102399998985,ltime=-32.0
+address4 is matched address4_2
+address4_2 ftime= -30.008359999992535,ltime=-25.724891999998363
+cost is 1.9916400000074646
+True
+address4_2 ftime= -30.008359999992535,ltime=-25.724891999998363
+address4_2 is matched address9_2
+address9_2 ftime= -23.290053000004264,ltime=-19.277444999999716
+cost is 2.434838999994099
+
+address5 ftime= 57.583279999991646,ltime=63.0
+address5 is matched address5_2
+address5_2 ftime= 64.72121599999082,ltime=67.86250799999107
+cost is 1.721215999990818
+True
+address5_2 is not matched
+
+address6 ftime= 31.840322000003653,ltime=37.0
+address6 is matched address6_2
+address6_2 ftime= 39.2726479999983,ltime=42.13265400000091
+cost is 2.2726479999982985
+True
+address6_2 is not matched
+
+address7 is not matched
+False
+address7_2 is not matched
+
+address8 is not matched
+False
+address8_2 is not matched
+
+address9 is not matched
+False
+address9_2 is not matched
+
+accuracy is 0.7
