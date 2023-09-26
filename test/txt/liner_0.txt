@@ -1,0 +1,71 @@
+address0 ftime= 36.695009000002756,ltime=41.0
+address0 is matched address9_2
+address9_2 ftime= 44.01495799999975,ltime=47.16262000000279
+cost is 0.8865332444815728
+False
+address0_2 ftime= 44.44247400001041,ltime=47.595032000012
+address0_2 is matched address3_2
+address3_2 ftime= 49.57988299999852,ltime=50.72237400000449
+cost is 4.632787115734065
+
+address1 ftime= -5.29511900000216,ltime=-1.0
+address1 is matched address5_2
+address5_2 ftime= 0.14351100000203587,ltime=4.4336029999976745
+cost is 13.683443584456212
+False
+address1_2 ftime= 1.561186999999336,ltime=4.14751399999659
+address1_2 is matched address2_2
+address2_2 ftime= 7.003682000009576,ltime=10.151293000002624
+cost is 17.230035591031278
+
+address2 is not matched
+False
+address2_2 is not matched
+
+address3 is not matched
+False
+address3_2 is not matched
+
+address4 ftime= -31.581257999991067,ltime=-29.0
+address4 is matched address4_2
+address4_2 ftime= -25.587597999998252,ltime=-22.728905999989365
+cost is 19.662100807844237
+True
+address4_2 is not matched
+
+address5 ftime= -5.845625000001746,ltime=-3.0
+address5 is matched address1_2
+address1_2 ftime= 1.561186999999336,ltime=4.14751399999659
+cost is 16.681632258673226
+False
+address5_2 is not matched
+
+address6 ftime= -6.296211000008043,ltime=-2.0
+address6 is matched address2
+address2 ftime= 1.8537730000098236,ltime=5.0
+cost is 20.346965268130603
+False
+address6_2 is not matched
+
+address7 ftime= -82.75561599999492,ltime=-79.0
+address7 is matched address7_2
+address7_2 ftime= -76.45189799999935,ltime=-71.89560099999653
+cost is 39.33644465306568
+True
+address7_2 is not matched
+
+address8 ftime= 20.995089000003645,ltime=25.0
+address8 is matched address8_2
+address8_2 ftime= 27.001270000007935,ltime=30.1375340000086
+cost is 9.959654325760706
+True
+address8_2 is not matched
+
+address9 ftime= 37.431586000006064,ltime=42.0
+address9 is matched address3
+address3 ftime= 43.277493000001414,ltime=47.0
+cost is 4.495864411523345
+False
+address9_2 is not matched
+
+accuracy is 0.3

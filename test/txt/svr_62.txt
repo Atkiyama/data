@@ -1,0 +1,74 @@
+address0 ftime= -72.30499099999724,ltime=-68.0
+address0 is matched address6
+address6 ftime= -64.29621100000804,ltime=-60.0
+cost is 32204.585679533247
+False
+address0_2 ftime= -64.5575259999896,ltime=-61.404967999988
+address0_2 is matched address6_2
+address6_2 ftime= -58.00014800000645,ltime=-54.85871800000314
+cost is 28751.118741929364
+
+address1 ftime= 52.70488099999784,ltime=57.0
+address1 is matched address1_2
+address1_2 ftime= 59.561186999999336,ltime=62.14751399999659
+cost is 4997.65939003341
+True
+address1_2 ftime= 59.561186999999336,ltime=62.14751399999659
+address1_2 is matched address9_2
+address9_2 ftime= 65.01495799999975,ltime=68.16262000000279
+cost is 821.717855459864
+
+address2 ftime= -26.146226999990176,ltime=-23.0
+address2 is matched address2_2
+address2_2 ftime= -20.996317999990424,ltime=-17.848706999997376
+cost is 18628.790738808348
+True
+address2_2 ftime= -20.996317999990424,ltime=-17.848706999997376
+address2_2 is matched address8_2
+address8_2 ftime= -16.998729999992065,ltime=-13.8624659999914
+cost is 18401.75982113171
+
+address3 ftime= -42.722506999998586,ltime=-39.0
+address3 is matched address3_2
+address3_2 ftime= -36.42011700000148,ltime=-35.27762599999551
+cost is 20900.234728398817
+True
+address3_2 ftime= -36.42011700000148,ltime=-35.27762599999551
+address3_2 is matched address7
+address7 ftime= -29.755615999994916,ltime=-26.0
+cost is 19514.451863267543
+
+address4 ftime= 33.41874200000893,ltime=36.0
+address4 is matched address4_2
+address4_2 ftime= 39.41240200000175,ltime=42.271094000010635
+cost is 14210.600884481768
+True
+address4_2 is not matched
+
+address5 ftime= 84.15437499999825,ltime=87.0
+address5 is matched address5_2
+address5_2 ftime= 90.14351100000204,ltime=94.43360299999767
+cost is 28701.585445068504
+True
+address5_2 is not matched
+
+address6 is not matched
+False
+address6_2 is not matched
+
+address7 ftime= -29.755615999994916,ltime=-26.0
+address7 is matched address8
+address8 ftime= -23.004910999996355,ltime=-19.0
+cost is 18739.335121195556
+False
+address7_2 is not matched
+
+address8 is not matched
+False
+address8_2 is not matched
+
+address9 is not matched
+False
+address9_2 is not matched
+
+accuracy is 0.5

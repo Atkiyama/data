@@ -1,0 +1,71 @@
+address0 ftime= 94.69500900000276,ltime=99.0
+address0 is matched address0_2
+address0_2 ftime= 102.4424740000104,ltime=105.595032000012
+cost is 3.4424740000104066
+True
+address0_2 is not matched
+
+address1 ftime= 65.70488099999784,ltime=70.0
+address1 is matched address1_2
+address1_2 ftime= 72.56118699999934,ltime=75.14751399999659
+cost is 2.561186999999336
+True
+address1_2 is not matched
+
+address2 ftime= 128.85377300000982,ltime=132.0
+address2 is matched address2_2
+address2_2 ftime= 134.00368200000958,ltime=137.15129300000262
+cost is 2.003682000009576
+True
+address2_2 is not matched
+
+address3 ftime= -98.72250699999859,ltime=-95.0
+address3 is matched address3_2
+address3_2 ftime= -92.42011700000148,ltime=-91.27762599999551
+cost is 2.5798829999985173
+True
+address3_2 is not matched
+
+address4 ftime= -120.58125799999107,ltime=-118.0
+address4 is matched address4_2
+address4_2 ftime= -114.58759799999825,ltime=-111.72890599998937
+cost is 3.412402000001748
+True
+address4_2 is not matched
+
+address5 ftime= 6.154374999998254,ltime=9.0
+address5 is matched address5_2
+address5_2 ftime= 12.143511000002036,ltime=16.433602999997674
+cost is 3.143511000002036
+True
+address5_2 is not matched
+
+address6 ftime= 62.70378899999196,ltime=67.0
+address6 is matched address6_2
+address6_2 ftime= 68.99985199999355,ltime=72.14128199999686
+cost is 1.9998519999935525
+True
+address6_2 is not matched
+
+address7 ftime= 0.2443840000050841,ltime=4.0
+address7 is matched address5
+address5 ftime= 6.154374999998254,ltime=9.0
+cost is 2.1543749999982538
+False
+address7_2 is not matched
+
+address8 ftime= -24.004910999996355,ltime=-20.0
+address8 is matched address8_2
+address8_2 ftime= -17.998729999992065,ltime=-14.8624659999914
+cost is 2.001270000007935
+True
+address8_2 is not matched
+
+address9 ftime= 46.431586000006064,ltime=51.0
+address9 is matched address9_2
+address9_2 ftime= 53.01495799999975,ltime=56.16262000000279
+cost is 2.0149579999997513
+True
+address9_2 is not matched
+
+accuracy is 0.9

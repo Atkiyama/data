@@ -1,0 +1,71 @@
+address0 ftime= -67.60608900000807,ltime=-61.0
+address0 is matched address1
+address1 ftime= -57.856306000001496,ltime=-51.0
+cost is 552.3638709151993
+False
+address0_2 ftime= -58.432334000011906,ltime=-55.2064640000026
+address0_2 is matched address1_2
+address1_2 ftime= -50.13377100000798,ltime=-45.84471900000062
+cost is 536.2471900246725
+
+address1 is not matched
+False
+address1_2 is not matched
+
+address2 ftime= -117.4427219999925,ltime=-110.0
+address2 is matched address2_2
+address2_2 ftime= -108.00396499999624,ltime=-105.7201139999961
+cost is 707.4177455099385
+True
+address2_2 is not matched
+
+address3 ftime= -16.260664999994333,ltime=-9.0
+address3 is matched address3_2
+address3_2 ftime= -5.945294999997714,ltime=-4.8083639999968
+cost is 425.8736640535471
+True
+address3_2 is not matched
+
+address4 ftime= 119.42897600001015,ltime=124.0
+address4 is matched address9
+address9 ftime= 127.99493500000972,ltime=142.0
+cost is 27.824878907987006
+False
+address4_2 is not matched
+
+address5 ftime= 139.58327999999165,ltime=145.0
+address5 is matched address5_2
+address5_2 ftime= 146.72121599999082,ltime=149.86250799999107
+cost is 11.86714464053469
+True
+address5_2 is not matched
+
+address6 ftime= 83.56767400000535,ltime=91.0
+address6 is matched address6_2
+address6_2 ftime= 93.00516700001026,ltime=96.14388400000462
+cost is 136.0565259480162
+True
+address6_2 is not matched
+
+address7 ftime= 22.1368150000053,ltime=39.0
+address7 is matched address7_2
+address7_2 ftime= 41.29671999999846,ltime=44.201385000007576
+cost is 290.4737688248319
+True
+address7_2 is not matched
+
+address8 ftime= -120.17426800000248,ltime=-97.0
+address8 is matched address8_2
+address8_2 ftime= -95.27898699999787,ltime=-92.138976000002
+cost is 669.1645131146219
+True
+address8_2 is not matched
+
+address9 ftime= 127.99493500000972,ltime=142.0
+address9 is matched address9_2
+address9_2 ftime= 143.42606900000828,ltime=147.14852200000314
+cost is 3.0405670315714817
+True
+address9_2 is not matched
+
+accuracy is 0.7

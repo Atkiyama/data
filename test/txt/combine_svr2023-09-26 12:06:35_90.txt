@@ -1,0 +1,71 @@
+address0 ftime= 90.39391099999193,ltime=97.0
+address0 is matched address0_2
+address0_2 ftime= 99.5676659999881,ltime=102.7935359999974
+cost is 3501.9478171702303
+True
+address0_2 is not matched
+
+address1 ftime= -44.15741600000183,ltime=-31.0
+address1 is matched address1_2
+address1_2 ftime= -30.150852999999188,ltime=-25.821722000007863
+cost is 72.98476073904618
+True
+address1_2 is not matched
+
+address2 ftime= 46.85009100000025,ltime=52.0
+address2 is matched address2_2
+address2_2 ftime= 54.29281299999275,ltime=56.288847999996506
+cost is 573.0631055205027
+True
+address2_2 is not matched
+
+address3 ftime= -86.44488100000308,ltime=-79.0
+address3 is matched address3_2
+address3_2 ftime= -75.54400900000473,ltime=-73.85250500000257
+cost is 1431.4853102626864
+True
+address3_2 is not matched
+
+address4 ftime= 70.43733600000269,ltime=77.0
+address4 is matched address4_2
+address4_2 ftime= 79.28968800000439,ltime=82.47368500000448
+cost is 1785.3225247141222
+True
+address4_2 is not matched
+
+address5 ftime= -146.41672000000835,ltime=-141.0
+address5 is matched address6
+address6 ftime= -140.2960630000016,ltime=-134.0
+cost is 8708.1894246966
+False
+address5_2 ftime= -139.27878400000918,ltime=-136.13749200000893
+address5_2 is matched address6_2
+address6_2 ftime= -131.4348750000063,ltime=-128.5723330000037
+cost is 7480.615968083901
+
+address6 is not matched
+False
+address6_2 is not matched
+
+address7 ftime= 27.978715999997803,ltime=34.0
+address7 is matched address7_2
+address7_2 ftime= 35.41992499999469,ltime=38.83873099999619
+cost is 177.7220795373313
+True
+address7_2 is not matched
+
+address8 ftime= -104.58632000000216,ltime=-86.0
+address8 is matched address8_2
+address8_2 ftime= -83.98739399999613,ltime=-80.83973200000764
+cost is 1912.017162598393
+True
+address8_2 is not matched
+
+address9 ftime= -14.017819999993662,ltime=8.0
+address9 is matched address9_2
+address9_2 ftime= 8.859458999999333,ltime=13.515400999996928
+cost is 2.9154875177309663
+True
+address9_2 is not matched
+
+accuracy is 0.8

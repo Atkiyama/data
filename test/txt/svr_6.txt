@@ -1,0 +1,71 @@
+address0 ftime= 0.6950090000027558,ltime=5.0
+address0 is matched address2
+address2 ftime= 10.853773000009824,ltime=14.0
+cost is 77.84561501782464
+False
+address0_2 ftime= 8.442474000010407,ltime=11.595032000011997
+address0_2 is matched address2_2
+address2_2 ftime= 16.003682000009576,ltime=19.151293000002624
+cost is 71.09926025316149
+
+address1 ftime= 2.7048809999978403,ltime=7.0
+address1 is matched address1_2
+address1_2 ftime= 9.561186999999336,ltime=12.14751399999659
+cost is 83.97036058837872
+True
+address1_2 ftime= 9.561186999999336,ltime=12.14751399999659
+address1_2 is matched address8_2
+address8_2 ftime= 16.001270000007935,ltime=19.1375340000086
+cost is 71.4492131166398
+
+address2 is not matched
+False
+address2_2 is not matched
+
+address3 ftime= -27.722506999998586,ltime=-24.0
+address3 is matched address3_2
+address3_2 ftime= -21.420117000001483,ltime=-20.277625999995507
+cost is 115.06521776967338
+True
+address3_2 is not matched
+
+address4 ftime= -92.58125799999107,ltime=-90.0
+address4 is matched address4_2
+address4_2 ftime= -86.58759799999825,ltime=-83.72890599998937
+cost is 1591.5282001604005
+True
+address4_2 is not matched
+
+address5 ftime= 87.15437499999825,ltime=90.0
+address5 is matched address7_2
+address7_2 ftime= 93.54810200000065,ltime=98.10439900000347
+cost is 2034.6082120447525
+False
+address5_2 ftime= 93.14351100000204,ltime=97.43360299999767
+address5_2 is matched address6_2
+address6_2 ftime= 100.99985199999355,ltime=104.14128199999686
+cost is 2534.343974122013
+
+address6 is not matched
+False
+address6_2 is not matched
+
+address7 ftime= 87.24438400000508,ltime=91.0
+address7 is matched address5_2
+address5_2 ftime= 93.14351100000204,ltime=97.43360299999767
+cost is 2017.868151396185
+False
+address7_2 is not matched
+
+address8 is not matched
+False
+address8_2 is not matched
+
+address9 ftime= 28.431586000006064,ltime=33.0
+address9 is matched address9_2
+address9_2 ftime= 35.01495799999975,ltime=38.16262000000279
+cost is 30.405315966731184
+True
+address9_2 is not matched
+
+accuracy is 0.4

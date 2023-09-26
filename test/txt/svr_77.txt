@@ -1,0 +1,71 @@
+address0 ftime= 15.695009000002756,ltime=20.0
+address0 is matched address0_2
+address0_2 ftime= 23.442474000010407,ltime=26.595032000011997
+cost is 4533.371652505135
+True
+address0_2 is not matched
+
+address1 ftime= -23.29511900000216,ltime=-19.0
+address1 is matched address1_2
+address1_2 ftime= -16.438813000000664,ltime=-13.85248600000341
+cost is 4104.490231946444
+True
+address1_2 is not matched
+
+address2 ftime= 90.85377300000982,ltime=94.0
+address2 is matched address2_2
+address2_2 ftime= 96.00368200000958,ltime=99.15129300000262
+cost is 24120.335930702422
+True
+address2_2 is not matched
+
+address3 ftime= 76.27749300000141,ltime=80.0
+address3 is matched address3_2
+address3_2 ftime= 82.57988299999852,ltime=83.72237400000449
+cost is 16553.91617349519
+True
+address3_2 is not matched
+
+address4 ftime= 54.41874200000893,ltime=57.0
+address4 is matched address4_2
+address4_2 ftime= 60.41240200000175,ltime=63.271094000010635
+cost is 9219.60200774405
+True
+address4_2 is not matched
+
+address5 ftime= -59.845625000001746,ltime=-57.0
+address5 is matched address5_2
+address5_2 ftime= -53.856488999997964,ltime=-49.566397000002326
+cost is 1265.845508181105
+True
+address5_2 is not matched
+
+address6 ftime= -89.29621100000804,ltime=-85.0
+address6 is matched address6_2
+address6_2 ftime= -83.00014800000645,ltime=-79.85871800000314
+cost is 7327.611855628753
+True
+address6_2 is not matched
+
+address7 ftime= -99.75561599999492,ltime=-96.0
+address7 is matched address7_2
+address7_2 ftime= -93.45189799999935,ltime=-88.89560099999653
+cost is 12079.626361650888
+True
+address7_2 is not matched
+
+address8 ftime= 6.995089000003645,ltime=11.0
+address8 is matched address8_2
+address8_2 ftime= 13.001270000007935,ltime=16.1375340000086
+cost is 4253.723346498942
+True
+address8_2 is not matched
+
+address9 ftime= -64.56841399999394,ltime=-60.0
+address9 is matched address5
+address5 ftime= -59.845625000001746,ltime=-57.0
+cost is 209.4391607040834
+False
+address9_2 is not matched
+
+accuracy is 0.9

@@ -1,0 +1,71 @@
+address0 ftime= 66.69500900000276,ltime=71.0
+address0 is matched address0_2
+address0_2 ftime= 74.4424740000104,ltime=77.595032000012
+cost is 1838420.8221787852
+True
+address0_2 is not matched
+
+address1 ftime= -107.29511900000216,ltime=-103.0
+address1 is matched address1_2
+address1_2 ftime= -100.43881300000066,ltime=-97.85248600000341
+cost is 3821780.2201032112
+True
+address1_2 is not matched
+
+address2 ftime= -24.146226999990176,ltime=-21.0
+address2 is matched address2_2
+address2_2 ftime= -18.996317999990424,ltime=-15.848706999997376
+cost is 2463070.946983201
+True
+address2_2 is not matched
+
+address3 ftime= -9.722506999998586,ltime=-6.0
+address3 is matched address3_2
+address3_2 ftime= -3.4201170000014827,ltime=-2.2776259999955073
+cost is 2455715.915012495
+True
+address3_2 is not matched
+
+address4 ftime= 133.41874200000893,ltime=136.0
+address4 is matched address4_2
+address4_2 ftime= 139.41240200000175,ltime=142.27109400001063
+cost is 1425007.4665228983
+True
+address4_2 is not matched
+
+address5 ftime= 58.154374999998254,ltime=61.0
+address5 is matched address0
+address0 ftime= 66.69500900000276,ltime=71.0
+cost is 1992823.2735480138
+False
+address5_2 ftime= 64.14351100000204,ltime=68.43360299999767
+address5_2 is matched address6_2
+address6_2 ftime= 73.99985199999355,ltime=77.14128199999686
+cost is 1850653.0653660167
+
+address6 is not matched
+False
+address6_2 is not matched
+
+address7 ftime= 114.24438400000508,ltime=118.0
+address7 is matched address9_2
+address9_2 ftime= 120.01495799999975,ltime=123.16262000000279
+cost is 86264.68514589053
+False
+address7_2 is not matched
+
+address8 ftime= 59.995089000003645,ltime=64.0
+address8 is matched address6
+address6 ftime= 67.70378899999196,ltime=72.0
+cost is 1974415.1939643663
+False
+address8_2 is not matched
+
+address9 ftime= 113.43158600000606,ltime=118.0
+address9 is matched address7_2
+address7_2 ftime= 120.54810200000065,ltime=125.10439900000347
+cost is 128911.19685349727
+False
+address9_2 is not matched
+
+accuracy is 0.5

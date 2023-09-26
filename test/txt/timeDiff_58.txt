@@ -1,0 +1,74 @@
+address0 ftime= 51.695009000002756,ltime=56.0
+address0 is matched address0_2
+address0_2 ftime= 59.44247400001041,ltime=62.595032000012
+cost is 3.4424740000104066
+True
+address0_2 is not matched
+
+address1 ftime= 89.70488099999784,ltime=94.0
+address1 is matched address1_2
+address1_2 ftime= 96.56118699999934,ltime=99.14751399999659
+cost is 2.561186999999336
+True
+address1_2 is not matched
+
+address2 ftime= 79.85377300000982,ltime=83.0
+address2 is matched address2_2
+address2_2 ftime= 85.00368200000958,ltime=88.15129300000262
+cost is 2.003682000009576
+True
+address2_2 ftime= 85.00368200000958,ltime=88.15129300000262
+address2_2 is matched address1
+address1 ftime= 89.70488099999784,ltime=94.0
+cost is 1.5535879999952158
+
+address3 ftime= -41.722506999998586,ltime=-38.0
+address3 is matched address9
+address9 ftime= -35.568413999993936,ltime=-31.0
+cost is 2.431586000006064
+False
+address3_2 ftime= -35.42011700000148,ltime=-34.27762599999551
+address3_2 is matched address9_2
+address9_2 ftime= -28.98504200000025,ltime=-25.83737999999721
+cost is 5.292583999995259
+
+address4 ftime= 79.41874200000893,ltime=82.0
+address4 is matched address4_2
+address4_2 ftime= 85.41240200000175,ltime=88.27109400001063
+cost is 3.412402000001748
+True
+address4_2 is not matched
+
+address5 ftime= -63.845625000001746,ltime=-61.0
+address5 is matched address5_2
+address5_2 ftime= -57.856488999997964,ltime=-53.566397000002326
+cost is 3.143511000002036
+True
+address5_2 is not matched
+
+address6 ftime= -44.29621100000804,ltime=-40.0
+address6 is matched address6_2
+address6_2 ftime= -38.00014800000645,ltime=-34.85871800000314
+cost is 1.9998519999935525
+True
+address6_2 is not matched
+
+address7 ftime= 53.244384000005084,ltime=57.0
+address7 is matched address7_2
+address7_2 ftime= 59.548102000000654,ltime=64.10439900000347
+cost is 2.548102000000654
+True
+address7_2 is not matched
+
+address8 ftime= 17.995089000003645,ltime=22.0
+address8 is matched address8_2
+address8_2 ftime= 24.001270000007935,ltime=27.1375340000086
+cost is 2.001270000007935
+True
+address8_2 is not matched
+
+address9 is not matched
+False
+address9_2 is not matched
+
+accuracy is 0.8

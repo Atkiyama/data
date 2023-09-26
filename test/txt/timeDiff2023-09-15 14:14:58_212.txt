@@ -1,0 +1,71 @@
+address0 ftime= 34.695009000002756,ltime=39.0
+address0 is matched address0_2
+address0_2 ftime= 42.44247400001041,ltime=45.595032000012
+cost is 3.4424740000104066
+True
+address0_2 is not matched
+
+address1 ftime= 131.70488099999784,ltime=136.0
+address1 is matched address1_2
+address1_2 ftime= 138.56118699999934,ltime=141.1475139999966
+cost is 2.561186999999336
+True
+address1_2 is not matched
+
+address2 ftime= 116.85377300000982,ltime=120.0
+address2 is matched address2_2
+address2_2 ftime= 122.00368200000958,ltime=125.15129300000262
+cost is 2.003682000009576
+True
+address2_2 is not matched
+
+address3 ftime= 10.277493000001414,ltime=14.0
+address3 is matched address7
+address7 ftime= 15.244384000005084,ltime=19.0
+cost is 1.244384000005084
+False
+address3_2 ftime= 16.579882999998517,ltime=17.722374000004493
+address3_2 is matched address7_2
+address7_2 ftime= 21.548102000000654,ltime=26.10439900000347
+cost is 3.825727999996161
+
+address4 ftime= 62.41874200000893,ltime=65.0
+address4 is matched address4_2
+address4_2 ftime= 68.41240200000175,ltime=71.27109400001063
+cost is 3.412402000001748
+True
+address4_2 is not matched
+
+address5 ftime= 111.15437499999825,ltime=114.0
+address5 is matched address2
+address2 ftime= 116.85377300000982,ltime=120.0
+cost is 2.8537730000098236
+False
+address5_2 is not matched
+
+address6 ftime= -27.296211000008043,ltime=-23.0
+address6 is matched address6_2
+address6_2 ftime= -21.000148000006448,ltime=-17.858718000003137
+cost is 1.9998519999935525
+True
+address6_2 is not matched
+
+address7 is not matched
+False
+address7_2 is not matched
+
+address8 ftime= 82.99508900000365,ltime=87.0
+address8 is matched address8_2
+address8_2 ftime= 89.00127000000793,ltime=92.1375340000086
+cost is 2.001270000007935
+True
+address8_2 is not matched
+
+address9 ftime= -142.56841399999394,ltime=-138.0
+address9 is matched address9_2
+address9_2 ftime= -135.98504200000025,ltime=-132.8373799999972
+cost is 2.0149579999997513
+True
+address9_2 is not matched
+
+accuracy is 0.7
