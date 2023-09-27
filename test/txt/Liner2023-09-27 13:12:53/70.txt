@@ -1,0 +1,71 @@
+address0 ftime= -110.74746500000765,ltime=-103.0
+address0 is matched address0_2
+address0_2 ftime= -100.9712290000025,ltime=-96.69744400000491
+cost is 16.693069581213834
+True
+address0_2 is not matched
+
+address1 ftime= -131.447113000002,ltime=-124.0
+address1 is matched address1_2
+address1_2 ftime= -123.15090700000292,ltime=-119.43552600000112
+cost is 34.318742368551554
+True
+address1_2 is not matched
+
+address2 ftime= 32.992305000007036,ltime=37.0
+address2 is matched address6_2
+address6_2 ftime= 40.565124999993714,ltime=43.42766699999629
+cost is 93.20298921166892
+False
+address2_2 is not matched
+
+address3 ftime= 32.84386799999629,ltime=38.0
+address3 is matched address2_2
+address2_2 ftime= 39.28872799999954,ltime=42.431062000003294
+cost is 93.49544606863046
+False
+address3_2 is not matched
+
+address4 ftime= 94.42897600001015,ltime=99.0
+address4 is matched address4_2
+address4_2 ftime= 100.99164000000746,ltime=105.27510800000164
+cost is 135.86315764936361
+True
+address4_2 is not matched
+
+address5 ftime= 124.58327999999165,ltime=130.0
+address5 is matched address5_2
+address5_2 ftime= 131.72121599999082,ltime=134.86250799999107
+cost is 161.04437861349683
+True
+address5_2 is not matched
+
+address6 ftime= 31.703936999998405,ltime=38.0
+address6 is matched address3_2
+address3_2 ftime= 40.104532999990624,ltime=43.744739999994636
+cost is 83.98500253137185
+False
+address6_2 is not matched
+
+address7 ftime= -5.146099999998114,ltime=12.0
+address7 is matched address7_2
+address7_2 ftime= 14.878718000007211,ltime=18.603835999994768
+cost is 62.8537223745883
+True
+address7_2 is not matched
+
+address8 ftime= -103.74658799999452,ltime=-80.0
+address8 is matched address8_2
+address8_2 ftime= -78.27859999999055,ltime=-73.97760099999141
+cost is 5.5712820873658275
+True
+address8_2 is not matched
+
+address9 ftime= -89.72416599999997,ltime=-76.0
+address9 is matched address9_2
+address9_2 ftime= -75.43452100000286,ltime=-71.07557000000088
+cost is 4.252210775278573
+True
+address9_2 is not matched
+
+accuracy is 0.7

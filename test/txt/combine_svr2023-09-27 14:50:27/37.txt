@@ -1,0 +1,71 @@
+address0 ftime= 127.82624500000384,ltime=137.0
+address0 is matched address0_2
+address0_2 ftime= 137.86621500000183,ltime=141.87626600000658
+cost is 154092.96039617067
+True
+address0_2 is not matched
+
+address1 ftime= -97.72253499999351,ltime=-90.0
+address1 is matched address5
+address5 ftime= -85.41672000000835,ltime=-80.0
+cost is 26203.804778446956
+False
+address1_2 is not matched
+
+address2 ftime= -25.2975199999928,ltime=-17.0
+address2 is matched address2_2
+address2_2 ftime= -13.574911999996402,ltime=-11.854961999997611
+cost is 5009.96111960559
+True
+address2_2 is not matched
+
+address3 ftime= 69.73933500000567,ltime=77.0
+address3 is matched address3_2
+address3_2 ftime= 80.05470500000229,ltime=81.1916360000032
+cost is 33647.53538584644
+True
+address3_2 is not matched
+
+address4 ftime= -49.993659999992815,ltime=-44.0
+address4 is matched address4_2
+address4_2 ftime= -42.29010899999412,ltime=-39.14752800000133
+cost is 1488.0605723005253
+True
+address4_2 is not matched
+
+address5 ftime= -85.41672000000835,ltime=-80.0
+address5 is matched address5_2
+address5_2 ftime= -78.27878400000918,ltime=-75.13749200000893
+cost is 19366.81626602152
+True
+address5_2 is not matched
+
+address6 ftime= 47.84032200000365,ltime=53.0
+address6 is matched address6_2
+address6_2 ftime= 55.2726479999983,ltime=58.13265400000091
+cost is 15114.574441415083
+True
+address6_2 is not matched
+
+address7 ftime= -149.8631849999947,ltime=-133.0
+address7 is matched address8
+address8 ftime= -132.4409169999999,ltime=-115.0
+cost is 97360.81001392633
+False
+address7_2 is not matched
+
+address8 ftime= -132.4409169999999,ltime=-115.0
+address8 is matched address8_2
+address8_2 ftime= -112.7000410000037,ltime=-109.26664899999741
+cost is 69296.84877412567
+True
+address8_2 is not matched
+
+address9 ftime= -68.64859599999909,ltime=-50.0
+address9 is matched address9_2
+address9_2 ftime= -48.636396000001696,ltime=-45.77131700000609
+cost is 468.48571020407525
+True
+address9_2 is not matched
+
+accuracy is 0.8

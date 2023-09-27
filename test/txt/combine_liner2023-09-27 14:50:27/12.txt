@@ -1,0 +1,71 @@
+address0 ftime= 131.39391099999193,ltime=138.0
+address0 is matched address0_2
+address0_2 ftime= 140.5676659999881,ltime=143.7935359999974
+cost is 112.52614059158812
+True
+address0_2 is not matched
+
+address1 ftime= 55.703794000000926,ltime=64.0
+address1 is matched address1_2
+address1_2 ftime= 66.28639999999723,ltime=69.71035700000357
+cost is 69.60085924976974
+True
+address1_2 is not matched
+
+address2 ftime= 103.7035770000075,ltime=110.0
+address2 is matched address2_2
+address2_2 ftime= 112.0010970000003,ltime=115.4261850000039
+cost is 91.29021188374752
+True
+address2_2 is not matched
+
+address3 ftime= 95.55511899999692,ltime=103.0
+address3 is matched address3_2
+address3_2 ftime= 106.45599099999527,ltime=108.14749499999743
+cost is 85.43134139361793
+True
+address3_2 is not matched
+
+address4 ftime= 76.43733600000269,ltime=83.0
+address4 is matched address4_2
+address4_2 ftime= 85.28968800000439,ltime=88.47368500000448
+cost is 80.61080815314821
+True
+address4_2 is not matched
+
+address5 ftime= 127.58327999999165,ltime=133.0
+address5 is matched address5_2
+address5_2 ftime= 134.72121599999082,ltime=137.86250799999107
+cost is 110.87431503701214
+True
+address5_2 is not matched
+
+address6 ftime= 26.567674000005354,ltime=34.0
+address6 is matched address6_2
+address6_2 ftime= 36.00516700001026,ltime=39.14388400000462
+cost is 56.38041672018971
+True
+address6_2 is not matched
+
+address7 ftime= -57.7175270000007,ltime=-46.0
+address7 is matched address7_2
+address7_2 ftime= -43.70886600000085,ltime=-40.571427000002586
+cost is 11.039761868146716
+True
+address7_2 is not matched
+
+address8 ftime= -120.59892600000603,ltime=-100.0
+address8 is matched address8_2
+address8_2 ftime= -99.14997800000128,ltime=-95.13093800000206
+cost is 32.56421639561444
+True
+address8_2 is not matched
+
+address9 ftime= -64.86375399999088,ltime=-52.0
+address9 is matched address9_2
+address9_2 ftime= -50.858689000000595,ltime=-46.21515799999179
+cost is 4.858710389249994
+True
+address9_2 is not matched
+
+accuracy is 1.0
