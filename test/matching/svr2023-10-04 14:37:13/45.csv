@@ -1,0 +1,71 @@
+address0 ftime= -44.17375499999616,ltime=-35.0
+address0 is matched address7_2
+address7_2 ftime= -34.4447860000073,ltime=-31.566068000000087
+cost is 8759.77743903919
+False
+address0_2 is not matched
+
+address1 ftime= -71.15124300000025,ltime=-66.0
+address1 is matched address1_2
+address1_2 ftime= -63.70412999999826,ltime=-60.568637000003946
+cost is 2672.76062189861
+True
+address1_2 is not matched
+
+address2 ftime= -10.149908999999752,ltime=-5.0
+address2 is matched address2_2
+address2_2 ftime= -2.7071870000072504,ltime=-0.7111520000034961
+cost is 9804.813793516714
+True
+address2_2 is not matched
+
+address3 ftime= -143.44488100000308,ltime=-136.0
+address3 is matched address3_2
+address3_2 ftime= -132.54400900000473,ltime=-130.85250500000257
+cost is 57191.817736306555
+True
+address3_2 is not matched
+
+address4 ftime= 26.006340000007185,ltime=32.0
+address4 is matched address4_2
+address4_2 ftime= 33.70989100000588,ltime=36.85247199999867
+cost is 11113.503264015157
+True
+address4_2 is not matched
+
+address5 ftime= -114.41672000000835,ltime=-109.0
+address5 is matched address5_2
+address5_2 ftime= -107.27878400000918,ltime=-104.13749200000893
+cost is 24666.49270502603
+True
+address5_2 is not matched
+
+address6 ftime= 83.7039369999984,ltime=90.0
+address6 is matched address6_2
+address6_2 ftime= 92.56512499999371,ltime=95.42766699999629
+cost is 33949.92683855815
+True
+address6_2 is not matched
+
+address7 ftime= -51.59088600000541,ltime=-35.0
+address7 is matched address0_2
+address0_2 ftime= -34.13378499999817,ltime=-30.12373399999342
+cost is 8832.101527692117
+False
+address7_2 is not matched
+
+address8 ftime= 103.2591240000038,ltime=123.0
+address8 is matched address8_2
+address8_2 ftime= 124.13670100001036,ltime=128.72711200000776
+cost is 68705.64546648784
+True
+address8_2 is not matched
+
+address9 ftime= -85.73103399999673,ltime=-76.0
+address9 is matched address1
+address1 ftime= -71.15124300000025,ltime=-66.0
+cost is 696.1467106081509
+False
+address9_2 is not matched
+
+accuracy is 0.7
