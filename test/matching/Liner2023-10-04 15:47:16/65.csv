@@ -1,0 +1,71 @@
+address0 ftime= 132.960030000002,ltime=143.0
+address0 is matched address0_2
+address0_2 ftime= 145.01809800000046,ltime=148.1625550000026
+cost is 82.10913944606384
+True
+address0_2 is not matched
+
+address1 ftime= -139.44263299999875,ltime=-130.0
+address1 is matched address2_2
+address2_2 ftime= -125.9989029999997,ltime=-122.5738149999961
+cost is 53.29590981247384
+False
+address1_2 is not matched
+
+address2 ftime= -134.2964229999925,ltime=-128.0
+address2 is matched address1_2
+address1_2 ftime= -127.43104599999788,ltime=-123.99383599999419
+cost is 58.855437337207285
+False
+address2_2 is not matched
+
+address3 ftime= 125.6976100000029,ltime=132.0
+address3 is matched address0
+address0 ftime= 132.960030000002,ltime=143.0
+cost is 82.68053578510924
+False
+address3_2 ftime= 133.14249100000598,ltime=137.14991100000043
+address3_2 is matched address8_2
+address8_2 ftime= 137.30965299998934,ltime=141.29723999999987
+cost is 68.11900007626365
+
+address4 ftime= 95.00634000000719,ltime=101.0
+address4 is matched address4_2
+address4_2 ftime= 102.70989100000588,ltime=105.85247199999867
+cost is 64.57299618260761
+True
+address4_2 is not matched
+
+address5 ftime= 72.58327999999165,ltime=78.0
+address5 is matched address5_2
+address5_2 ftime= 79.72121599999082,ltime=82.86250799999107
+cost is 50.03571523183356
+True
+address5_2 is not matched
+
+address6 ftime= 4.567674000005354,ltime=12.0
+address6 is matched address6_2
+address6_2 ftime= 14.00516700001026,ltime=17.14388400000462
+cost is 12.61925900729069
+True
+address6_2 is not matched
+
+address7 ftime= -151.86746599999606,ltime=-137.0
+address7 is matched address7_2
+address7_2 ftime= -135.00428100000136,ltime=-131.84264799999073
+cost is 57.57065888709672
+True
+address7_2 is not matched
+
+address8 is not matched
+False
+address8_2 is not matched
+
+address9 ftime= -24.14367599999241,ltime=-13.0
+address9 is matched address9_2
+address9_2 ftime= -11.279922000001537,ltime=-8.144083999999568
+cost is 3.137371457507655
+True
+address9_2 is not matched
+
+accuracy is 0.6
