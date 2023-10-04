@@ -1,0 +1,71 @@
+address0 ftime= -78.77623600000516,ltime=-69.0
+address0 is matched address0_2
+address0_2 ftime= -67.87621299999591,ltime=-64.72621500000241
+cost is 13557.418642127483
+True
+address0_2 is not matched
+
+address1 ftime= 106.27746500000649,ltime=114.0
+address1 is matched address1_2
+address1_2 ftime= 115.72009800000524,ltime=119.43488100000832
+cost is 43119.3627116357
+True
+address1_2 is not matched
+
+address2 ftime= 36.7035770000075,ltime=43.0
+address2 is matched address2_2
+address2_2 ftime= 45.0010970000003,ltime=48.4261850000039
+cost is 1944.4428706884953
+True
+address2_2 ftime= 45.0010970000003,ltime=48.4261850000039
+address2_2 is matched address9_2
+address9_2 ftime= 53.587593000003835,ltime=56.43749399999797
+cost is 268.4362682175333
+
+address3 ftime= -23.44488100000308,ltime=-16.0
+address3 is matched address8
+address8 ftime= -14.300342000002274,ltime=0.0
+cost is 4959.027985607143
+False
+address3_2 is not matched
+
+address4 ftime= -76.99365999999281,ltime=-71.0
+address4 is matched address4_2
+address4_2 ftime= -69.29010899999412,ltime=-66.14752800000133
+cost is 14035.601293689984
+True
+address4_2 is not matched
+
+address5 ftime= 37.583279999991646,ltime=43.0
+address5 is matched address5_2
+address5_2 ftime= 44.72121599999082,ltime=47.86250799999107
+cost is 1980.3270205033014
+True
+address5_2 is not matched
+
+address6 ftime= -121.2960630000016,ltime=-115.0
+address6 is matched address6_2
+address6_2 ftime= -112.43487500000629,ltime=-109.57233300000371
+cost is 45601.098239085746
+True
+address6_2 is not matched
+
+address7 ftime= 80.55879100000311,ltime=88.0
+address7 is matched address7_2
+address7_2 ftime= 89.42132799999672,ltime=92.27631800000381
+cost is 17280.087775325166
+True
+address7_2 is not matched
+
+address8 ftime= -14.300342000002274,ltime=0.0
+address8 is matched address8_2
+address8_2 ftime= 1.4235380000027362,ltime=5.4405339999939315
+cost is 4937.395246623606
+True
+address8_2 is not matched
+
+address9 is not matched
+False
+address9_2 is not matched
+
+accuracy is 0.8
