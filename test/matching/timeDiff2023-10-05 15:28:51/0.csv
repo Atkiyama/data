@@ -1,0 +1,71 @@
+address0 ftime= -6.606089000008069,ltime=0.0
+address0 is matched address1_2
+address1_2 ftime= 0.8662289999920176,ltime=5.155280999999377
+cost is 0.8662289999920176
+False
+address0_2 is not matched
+
+address1 ftime= -6.856306000001496,ltime=0.0
+address1 is matched address5_2
+address5_2 ftime= 1.721215999990818,ltime=4.862507999991067
+cost is 1.721215999990818
+False
+address1_2 is not matched
+
+address2 ftime= -8.2975199999928,ltime=0.0
+address2 is matched address9_2
+address9_2 ftime= 2.0093060000072,ltime=5.144881000000169
+cost is 2.0093060000072
+False
+address2_2 is not matched
+
+address3 ftime= -7.260664999994333,ltime=0.0
+address3 is matched address8_2
+address8_2 ftime= 2.279999999998836,ltime=4.873705999998492
+cost is 2.279999999998836
+False
+address3_2 is not matched
+
+address4 ftime= -6.562663999997312,ltime=0.0
+address4 is matched address4_2
+address4_2 ftime= 2.2896880000043893,ltime=5.47368500000448
+cost is 2.2896880000043893
+True
+address4_2 is not matched
+
+address5 ftime= -5.416720000008354,ltime=0.0
+address5 is matched address7_2
+address7_2 ftime= 2.291133999999147,ltime=5.428572999997414
+cost is 2.291133999999147
+False
+address5_2 is not matched
+
+address6 ftime= -6.296063000001595,ltime=0.0
+address6 is matched address6_2
+address6_2 ftime= 2.5651249999937136,ltime=5.427666999996292
+cost is 2.5651249999937136
+True
+address6_2 is not matched
+
+address7 ftime= -11.7175270000007,ltime=0.0
+address7 is matched address0_2
+address0_2 ftime= 2.567665999988094,ltime=5.7935359999974025
+cost is 2.567665999988094
+False
+address7_2 is not matched
+
+address8 ftime= -24.895281000004616,ltime=0.0
+address8 is matched address3_2
+address3_2 ftime= 3.0547050000022864,ltime=4.1916360000032
+cost is 3.0547050000022864
+False
+address8_2 is not matched
+
+address9 ftime= -11.714859999992768,ltime=0.0
+address9 is matched address2_2
+address2_2 ftime= 3.4250880000035977,ltime=5.145038000002389
+cost is 3.4250880000035977
+False
+address9_2 is not matched
+
+accuracy is 0.2
