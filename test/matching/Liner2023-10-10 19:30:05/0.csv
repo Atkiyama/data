@@ -1,0 +1,22 @@
+address0 ftime= -6.606089000008069,ltime=0.0
+address0 is matched address0_2
+address0_2 ftime= 2.567665999988094,ltime=5.7935359999974025
+cost is 7.925365166073033
+True
+address0_2 is not matched
+
+address1 ftime= -5.15124300000025,ltime=0.0
+address1 is matched address1_2
+address1_2 ftime= 2.2958700000017416,ltime=5.431362999996052
+cost is 6.133916554714901
+True
+address1_2 is not matched
+
+address2 ftime= -4.007694999992964,ltime=0.0
+address2 is matched address2_2
+address2_2 ftime= 2.288727999999537,ltime=5.431062000003292
+cost is 1.4933049670838123
+True
+address2_2 is not matched
+
+accuracy is 1.0
